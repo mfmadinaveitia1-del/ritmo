@@ -12,6 +12,6 @@ Interactive iPhone-style prototype for discovering salsa (línea & cubana), bach
 - Private owner workspace for managing event sources, with JSON import/export
 
 ## Notes
-- All events, venues and organizers are **fictional sample data**. Bookings are simulated; no payments are taken.
+- Hamburg shows **real events** (salsa, bachata, Brazilian zouk, forró) collected from public listings, each linking to its organizer page. Other cities still use **fictional sample data**; bookings there are simulated and no payments are taken.
 - The owner access code is a client-side demo gate only, not real security.
 - Single self-contained `index.html`; no build step.
