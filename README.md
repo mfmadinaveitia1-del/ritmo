@@ -9,7 +9,7 @@ Interactive iPhone-style prototype for discovering salsa (línea & cubana), bach
 - Discover sections: Featured, Socials and Dance Festivals
 - List view and stylized Germany map
 - Favorites, demo tickets and created events saved in the browser (localStorage)
-- Add-to-calendar (.ics) and share actions
+- Share action
 - Private owner workspace for managing event sources, with JSON import/export
 
 ## Notes
