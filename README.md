@@ -13,6 +13,6 @@ Interactive iPhone-style prototype for discovering salsa (línea & cubana), bach
 - Private owner workspace for managing event sources, with JSON import/export
 
 ## Notes
-- Hamburg shows **real events** (salsa, bachata, Brazilian zouk, forró) collected from public listings, each linking to its organizer page. **Dance Festivals** lists real upcoming festivals across Germany (Nov 2026 – May 2027), each linking to its official page. Other cities' socials still use **fictional sample data**; bookings there are simulated and no payments are taken.
+- Hamburg shows **real events** (salsa, bachata, Brazilian zouk, forró) through the end of November 2026, including its weekly socials collected from public listings, each linking to its organizer page. **Dance Festivals** lists real upcoming festivals across Germany (Nov 2026 – May 2027), each linking to its official page. Other cities' socials still use **fictional sample data**; bookings there are simulated and no payments are taken.
 - The owner access code is a client-side demo gate only, not real security.
 - Single self-contained `index.html`; no build step.
